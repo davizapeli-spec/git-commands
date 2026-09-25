@@ -2,6 +2,8 @@
 -criar repositório no git hub 
 -criar pasta no computador 
 -iniciar o git com o comando git 
+-vincular com o github "git remove add origin <link>"
+-subir a branch com todos os commits usando "git push -u origin"
 
 # salvar mudanças no repesitorio 
 
