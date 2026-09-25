@@ -10,3 +10,6 @@
 -adicionar mundança no arquivo usando  "git add ." (.significa todos os arquivos)
 
 salvar o pacote usando git commit -m "first commit"
+
+# Enviar pacotes ao github 
+-git push 
